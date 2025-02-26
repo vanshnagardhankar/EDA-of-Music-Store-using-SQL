@@ -1,2 +1,7 @@
 # EDA-of-Music-Store-using-SQL
-This project performs Exploratory Data Analysis (EDA) on a Music Store database using SQL. The analysis uncovers insights related to sales trends, customer behavior, popular genres, and revenue distribution. By leveraging SQL queries, this project helps understand the business dynamics of a digital music store.
+T📊 Features
+✔️ Customer Purchase Behavior – Analyzes buying patterns and top-spending customers.
+✔️ Top-Selling Genres & Artists – Identifies the most popular music categories and artists.
+✔️ Revenue Breakdown – Examines revenue distribution across different segments.
+✔️ Sales Trends Over Time – Tracks revenue growth and seasonal variations.
+✔️ Geographic Insights – Finds the best-performing regions based on sales data.
